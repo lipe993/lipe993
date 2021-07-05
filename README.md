@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @lipe993
-- 👀 I’m interested in Game and Webpages development
-- 🌱 I’m currently learning HTML, CSS, JS and GML(GameMaker Language)
-- 💞️ I’m looking to collaborate on idk.
-- 📫 How to reach me idk.
+# Gorla
+Hi, I'm Luiz Felipe Gorla, but you can call me only Gorla
+- I do games and I'm working on TLD.
+- I make ***very simple*** websites
+- I make pixel art and pixel art animations
+- I do some music
 
 <!---
 lipe993/lipe993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
